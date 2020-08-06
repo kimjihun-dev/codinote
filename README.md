@@ -1,4 +1,4 @@
-# codinote (코디노트)
+# codinote (코디노트앱)
 <br><br>
 
 #### 기간 : 1day
@@ -8,7 +8,7 @@
 #### demo site : https://kimjihun-dev.github.io/codinote/
 
 1. 디자인 된 모바일 시안을 퍼블리싱 작업
-2. 메인 및 사이드메뉴 부분 퍼블리싱
+2. 메인 및 사이드메뉴 퍼블리싱
 
 
 <br>
